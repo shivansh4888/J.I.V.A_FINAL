@@ -1,0 +1,8 @@
+flask
+python-dotenv
+langchain
+langchain_groq
+reportlab
+numpy
+pandas
+gunicorn
