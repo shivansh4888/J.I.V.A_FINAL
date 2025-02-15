@@ -6,3 +6,4 @@ reportlab
 numpy
 pandas
 gunicorn
+xhtml2pdf
